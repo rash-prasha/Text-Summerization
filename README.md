@@ -1,5 +1,7 @@
 # Text Summarization Tool
 
+![Project Overview](image.png)
+
 This project's main goal is to create an automated, user-friendly system for text analysis and
 summarization. The system is intended to
 
