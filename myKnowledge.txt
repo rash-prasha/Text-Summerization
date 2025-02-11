@@ -1,0 +1,4 @@
+1 The virtual environment hast to be created and have to activated
+    to create = conda create -n textS python=3.8 -y
+    to activate = conda activate textS
+
